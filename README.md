@@ -2,4 +2,8 @@
 
 First Repo with RStudio.
 
-New Brach for New Ideas.
+New Branch for New Ideas.
+
+I have a new Idea.
+
+* [Source](https://github.com/uo-ec510-2020-spring/lectures)
